@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 from rstem.button import Button
 from rstem.sound import Note
 
